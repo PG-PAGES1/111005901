@@ -1,0 +1,13 @@
+
+x2.png
+size: 44,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier_red_number/2
+  rotate: false
+  xy: 2, 2
+  size: 40, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1

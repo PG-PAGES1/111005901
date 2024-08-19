@@ -1,0 +1,251 @@
+
+mianfeijiayi.png
+size: 277,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duobaofuhaotaoxintexiao/scatter_vfx_b_00
+  rotate: false
+  xy: 222, 291
+  size: 36, 33
+  orig: 86, 74
+  offset: 25, 23
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_01
+  rotate: false
+  xy: 222, 326
+  size: 42, 41
+  orig: 86, 74
+  offset: 22, 20
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_02
+  rotate: false
+  xy: 222, 369
+  size: 48, 49
+  orig: 86, 74
+  offset: 19, 16
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_03
+  rotate: true
+  xy: 220, 420
+  size: 56, 55
+  orig: 86, 74
+  offset: 15, 13
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_04
+  rotate: false
+  xy: 204, 4
+  size: 58, 59
+  orig: 86, 74
+  offset: 14, 11
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_05
+  rotate: false
+  xy: 140, 2
+  size: 62, 61
+  orig: 86, 74
+  offset: 12, 10
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_06
+  rotate: false
+  xy: 140, 65
+  size: 62, 63
+  orig: 86, 74
+  offset: 12, 9
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_07
+  rotate: false
+  xy: 208, 197
+  size: 62, 63
+  orig: 86, 74
+  offset: 12, 9
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_08
+  rotate: false
+  xy: 208, 132
+  size: 62, 63
+  orig: 86, 74
+  offset: 12, 9
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_09
+  rotate: false
+  xy: 204, 65
+  size: 62, 63
+  orig: 86, 74
+  offset: 12, 9
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_10
+  rotate: false
+  xy: 140, 196
+  size: 66, 64
+  orig: 86, 74
+  offset: 10, 9
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_11
+  rotate: false
+  xy: 140, 130
+  size: 66, 64
+  orig: 86, 74
+  offset: 10, 8
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_12
+  rotate: false
+  xy: 152, 262
+  size: 68, 64
+  orig: 86, 74
+  offset: 9, 7
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_13
+  rotate: true
+  xy: 72, 28
+  size: 68, 66
+  orig: 86, 74
+  offset: 9, 6
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_14
+  rotate: true
+  xy: 72, 242
+  size: 70, 66
+  orig: 86, 74
+  offset: 8, 6
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_15
+  rotate: true
+  xy: 72, 170
+  size: 70, 66
+  orig: 86, 74
+  offset: 8, 5
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_16
+  rotate: true
+  xy: 72, 98
+  size: 70, 66
+  orig: 86, 74
+  offset: 8, 5
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_17
+  rotate: true
+  xy: 2, 86
+  size: 72, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_18
+  rotate: false
+  xy: 195, 478
+  size: 72, 70
+  orig: 86, 74
+  offset: 7, 4
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_19
+  rotate: true
+  xy: 2, 12
+  size: 72, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_20
+  rotate: true
+  xy: 78, 386
+  size: 72, 70
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_21
+  rotate: false
+  xy: 119, 620
+  size: 74, 72
+  orig: 86, 74
+  offset: 6, 1
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_22
+  rotate: false
+  xy: 119, 548
+  size: 74, 70
+  orig: 86, 74
+  offset: 6, 2
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_23
+  rotate: false
+  xy: 195, 622
+  size: 74, 70
+  orig: 86, 74
+  offset: 6, 2
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_24
+  rotate: false
+  xy: 2, 314
+  size: 74, 70
+  orig: 86, 74
+  offset: 6, 2
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_25
+  rotate: false
+  xy: 119, 476
+  size: 74, 70
+  orig: 86, 74
+  offset: 6, 2
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_26
+  rotate: false
+  xy: 2, 386
+  size: 74, 72
+  orig: 86, 74
+  offset: 6, 1
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_27
+  rotate: false
+  xy: 195, 550
+  size: 74, 70
+  orig: 86, 74
+  offset: 6, 2
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_28
+  rotate: true
+  xy: 2, 236
+  size: 76, 68
+  orig: 86, 74
+  offset: 5, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_29
+  rotate: true
+  xy: 2, 160
+  size: 74, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_30
+  rotate: false
+  xy: 78, 316
+  size: 72, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_31
+  rotate: true
+  xy: 150, 402
+  size: 72, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+duobaofuhaotaoxintexiao/scatter_vfx_b_32
+  rotate: true
+  xy: 152, 328
+  size: 72, 68
+  orig: 86, 74
+  offset: 7, 3
+  index: -1
+gunzhoujiasufensebeijinhe xuanzhuananniutexiao/bw_vfx_d
+  rotate: false
+  xy: 2, 577
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+gunzhoujiasufensebeijinhe xuanzhuananniutexiao/scatter_flare
+  rotate: false
+  xy: 2, 460
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1

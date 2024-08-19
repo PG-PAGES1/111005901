@@ -1,0 +1,125 @@
+
+ks.png
+size: 900,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzhoujiasufensebeijinhe xuanzhuananniutexiao/mh_vfx_03
+  rotate: false
+  xy: 453, 17
+  size: 270, 105
+  orig: 270, 105
+  offset: 0, 0
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_01
+  rotate: true
+  xy: 824, 6
+  size: 44, 38
+  orig: 144, 142
+  offset: 54, 51
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_02
+  rotate: false
+  xy: 824, 52
+  size: 67, 64
+  orig: 144, 142
+  offset: 42, 38
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_03
+  rotate: true
+  xy: 816, 162
+  size: 85, 82
+  orig: 144, 142
+  offset: 32, 27
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_04
+  rotate: true
+  xy: 725, 16
+  size: 100, 97
+  orig: 144, 142
+  offset: 24, 19
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_05
+  rotate: true
+  xy: 344, 11
+  size: 109, 107
+  orig: 144, 142
+  offset: 19, 13
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_06
+  rotate: false
+  xy: 2, 2
+  size: 116, 116
+  orig: 144, 142
+  offset: 15, 8
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_07
+  rotate: false
+  xy: 692, 125
+  size: 122, 122
+  orig: 144, 142
+  offset: 12, 3
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_08
+  rotate: true
+  xy: 120, 4
+  size: 114, 127
+  orig: 144, 142
+  offset: 21, 0
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_09
+  rotate: false
+  xy: 2, 120
+  size: 118, 127
+  orig: 144, 142
+  offset: 19, 0
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_10
+  rotate: false
+  xy: 368, 124
+  size: 120, 123
+  orig: 144, 142
+  offset: 18, 4
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_11
+  rotate: false
+  xy: 122, 122
+  size: 121, 125
+  orig: 144, 142
+  offset: 18, 1
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_12
+  rotate: false
+  xy: 245, 122
+  size: 121, 125
+  orig: 144, 142
+  offset: 18, 0
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_13
+  rotate: true
+  xy: 490, 124
+  size: 123, 100
+  orig: 144, 142
+  offset: 17, 3
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_14
+  rotate: true
+  xy: 592, 124
+  size: 123, 98
+  orig: 144, 142
+  offset: 17, 2
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_15
+  rotate: true
+  xy: 249, 2
+  size: 118, 93
+  orig: 144, 142
+  offset: 22, 0
+  index: -1
+mianfeilingjianganniutaoxintexiao/spin_vfx_c_16
+  rotate: false
+  xy: 816, 118
+  size: 71, 42
+  orig: 144, 142
+  offset: 69, 50
+  index: -1

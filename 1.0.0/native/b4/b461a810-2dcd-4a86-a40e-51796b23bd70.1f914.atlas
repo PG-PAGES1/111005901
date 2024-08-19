@@ -1,0 +1,34 @@
+
+bg.png
+size: 1091,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeibeijinmenkuangdengguang/bonus_game_spot_light
+  rotate: true
+  xy: 603, 378
+  size: 354, 358
+  orig: 354, 358
+  offset: 0, 0
+  index: -1
+mianfeibeijinmenkuangdengguang/bonus_light_bulb_a
+  rotate: true
+  xy: 2, 393
+  size: 339, 599
+  orig: 339, 599
+  offset: 0, 0
+  index: -1
+mianfeibeijinmenkuangdengguang/bonus_light_bulb_b
+  rotate: true
+  xy: 2, 52
+  size: 339, 599
+  orig: 339, 599
+  offset: 0, 0
+  index: -1
+mianfeihejiesuanjiemianbeijin/bonus_bg
+  rotate: false
+  xy: 603, 2
+  size: 486, 374
+  orig: 486, 374
+  offset: 0, 0
+  index: -1

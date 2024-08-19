@@ -1,0 +1,34 @@
+
+bigwin.jpg
+size: 508,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_a
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bw_vfx_b
+  rotate: true
+  xy: 390, 132
+  size: 128, 116
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+bw_vfx_d
+  rotate: false
+  xy: 260, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+scatter_flare
+  rotate: false
+  xy: 260, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

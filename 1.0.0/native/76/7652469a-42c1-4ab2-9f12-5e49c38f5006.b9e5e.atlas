@@ -1,0 +1,209 @@
+
+jiasukaung.png
+size: 1309,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: false
+  xy: 2, 251
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+fast_spin_bg
+  rotate: false
+  xy: 2, 282
+  size: 135, 412
+  orig: 135, 412
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_00
+  rotate: false
+  xy: 139, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_01
+  rotate: true
+  xy: 139, 240
+  size: 72, 380
+  orig: 76, 380
+  offset: 1, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_02
+  rotate: false
+  xy: 1153, 315
+  size: 76, 379
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_03
+  rotate: false
+  xy: 1231, 315
+  size: 76, 379
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_04
+  rotate: true
+  xy: 903, 236
+  size: 76, 377
+  orig: 76, 380
+  offset: 0, 3
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_05
+  rotate: true
+  xy: 760, 2
+  size: 76, 354
+  orig: 76, 380
+  offset: 0, 23
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_06
+  rotate: false
+  xy: 217, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_07
+  rotate: false
+  xy: 295, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_08
+  rotate: false
+  xy: 373, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_09
+  rotate: true
+  xy: 2, 162
+  size: 76, 378
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_10
+  rotate: true
+  xy: 382, 82
+  size: 76, 376
+  orig: 76, 380
+  offset: 0, 2
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_11
+  rotate: false
+  xy: 451, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_12
+  rotate: true
+  xy: 2, 84
+  size: 76, 378
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_13
+  rotate: false
+  xy: 529, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_14
+  rotate: false
+  xy: 607, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_15
+  rotate: true
+  xy: 2, 6
+  size: 76, 378
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_16
+  rotate: true
+  xy: 382, 160
+  size: 76, 378
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_17
+  rotate: true
+  xy: 382, 4
+  size: 76, 376
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_18
+  rotate: true
+  xy: 760, 80
+  size: 76, 372
+  orig: 76, 380
+  offset: 0, 1
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_19
+  rotate: false
+  xy: 685, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_20
+  rotate: false
+  xy: 763, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_21
+  rotate: false
+  xy: 841, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_22
+  rotate: false
+  xy: 919, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_23
+  rotate: true
+  xy: 521, 238
+  size: 74, 380
+  orig: 76, 380
+  offset: 1, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_24
+  rotate: false
+  xy: 997, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_25
+  rotate: true
+  xy: 762, 158
+  size: 76, 375
+  orig: 76, 380
+  offset: 0, 5
+  index: -1
+gunzhoujiasubiankuangtexiao/fast_spin_vfx_a_26
+  rotate: false
+  xy: 1075, 314
+  size: 76, 380
+  orig: 76, 380
+  offset: 0, 0
+  index: -1
